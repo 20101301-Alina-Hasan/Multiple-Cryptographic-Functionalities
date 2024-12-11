@@ -2,9 +2,9 @@
 
 ## Overview
 
-This Python application integrates various cryptographic functionalities into a single interactive program. Users can perform operations such as encryption, decryption, hashing, digital signature generation/verification, and Message Authentication Code (MAC) generation.
+This Python application integrates various cryptographic functionalities into a single interactive program. Users can perform encryption, decryption, hashing, digital signature generation/verification, and Message Authentication Code (MAC) generation.
 
-Developed by **Alina Hasan**, ID: **20101301**.
+Developed by **Alina Hasan**
 
 ---
 
