@@ -168,6 +168,8 @@ This project is for academic purposes. Redistribution or commercial use is prohi
 
 ## Contact
 
-**Alina Hasan**  
-Email: [alina.hasan@g.bracu.ac.bd]()  
-ID: 20101301
+For questions or inquiries, reach out via [alina.hasan@g.bracu.ac.bd](mailto:alina.hasan@g.bracu.ac.bd)  
+
+---
+
+Feel free to ⭐ the repo if you find it useful.
